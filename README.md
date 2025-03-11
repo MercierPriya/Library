@@ -6,7 +6,7 @@ MongoDB installé ou accès à une base MongoDB en ligne
 Postman ( pour tester les routes)
 
 2️⃣ Installation du projet :
-git clone https://github.com/Library.git
+git clone https://github.com/MercierPriya/Library.git
 npm install express express-session mongoose dotenv cors bcryptjs
 
 3️⃣ Configuration :
